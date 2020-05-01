@@ -8,6 +8,7 @@ if sys.version_info[0] == 2:
     input = raw_input # python 2 compatibility
 print('Welcome to Tic Tac Toe!')
 print('You are X.\n')
+print('\nAnd by the way, don\'t laugh.\n')
 
 print(' | | \n-+-+-\n | | \n-+-+-\n | | \n')
 print('Enter the number of your move:')
